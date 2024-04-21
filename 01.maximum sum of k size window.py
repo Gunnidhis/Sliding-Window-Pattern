@@ -1,4 +1,4 @@
-# Given an array and an integer K, find the maximum for each and every contiguous subarray of size K
+# Given an array and an integer K, find the maximum sum for each and every contiguous subarray of size K
 
 # The function finds the maximum sum of a subarray of size `k` in the given array `nums` using the Sliding Window technique.
 
